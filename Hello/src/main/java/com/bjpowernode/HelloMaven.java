@@ -2,7 +2,7 @@ package com.bjpowernode;
 
 public class HelloMaven{
  public int addNumber(int n1,int n2){
- 	System.out.println("hello maven -addNumber");
+ 	System.out.println("hello1 maven -addNumber");
  	return n1+n2;
   }
   public static void main(String args[]){
